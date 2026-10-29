@@ -1,4 +1,4 @@
-# Harshik Dendi — AI Engineer
+# Dendi Harshik Reddy — AI Engineer
 
 A responsive portfolio for Dendi Harshik Reddy, featuring an animated neural network, project details, experience, skills, certifications, and a downloadable résumé.
 
@@ -11,7 +11,7 @@ Live portfolio: https://harshikreddydendi.github.io/harshik-ai-portfolio/
 - `recruiter.css`: larger type, clearer identity, and project evidence layouts
 - `app.js`: neural animation, project dialogs, and email copy action
 - `assets/`: actual weapon-detection output and the shopping analysis report/dashboard preview, sourced from the corresponding project repositories
-- `Harshik-Dendi-Resume.pdf`: downloadable résumé
+- `Dendi-Harshik-Reddy-Resume.pdf`: downloadable résumé
 
 ## Deployment
 
