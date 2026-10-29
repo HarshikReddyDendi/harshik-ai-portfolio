@@ -8,7 +8,9 @@ Live portfolio: https://harshikreddydendi.github.io/harshik-ai-portfolio/
 
 - `index.html`: page content and sections
 - `styles.css`: styling and responsive layouts
+- `recruiter.css`: larger type, clearer identity, and project evidence layouts
 - `app.js`: neural animation, project dialogs, and email copy action
+- `assets/`: actual weapon-detection output and the shopping analysis report/dashboard preview, sourced from the corresponding project repositories
 - `Harshik-Dendi-Resume.pdf`: downloadable résumé
 
 ## Deployment
